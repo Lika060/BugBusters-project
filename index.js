@@ -8,7 +8,7 @@ import{g as d,T as M,A as B,r as I,i as g,S as O,a as T}from"./assets/vendor-BUj
       <div class="container-txt-btn">
         <p class="item-text">${t}</p>
         <div class='project-icon-div'>
-        <a class="item-btn-grey" href="https://github.com/Lika060/BugBusters-project" target="_blank">
+        <a class="item-btn-grey" href="https:/github.com/Lika060/BugBusters-project" target="_blank">
           <span class='visit'>VISIT</span>
           <svg class="btn-grey-icon" width="24" height="24">
             <use href="${C}#icon-icon"></use>
