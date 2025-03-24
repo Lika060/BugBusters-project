@@ -30,7 +30,7 @@ import{g as l,T as O,i as a,A as P,r as I,S as $,a as z}from"./assets/vendor-CB8
             >
               <span class="projects-button_text">VISIT</span>
               <svg class="projects-button_icon" width="24" height="24">
-                <use href="${F}#icon-arrow-projects"></use>
+                <use href="${F}#icon-arrow"></use>
               </svg>
             </a>
           </div>
