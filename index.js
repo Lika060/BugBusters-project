@@ -24,7 +24,7 @@ import{g as l,T as O,i as a,A as P,r as I,S as $,a as z}from"./assets/vendor-CB8
           <div class="projects-box_descr">
             <h3 class="projects-img_title">${t}</h3>
             <a
-              href="https://bulatovatati.github.io/landing-page-2.0/"
+              href="https://lika060.github.io/BugBusters-project/"
               class="projects-button_link"
               target="_blank"
             >
